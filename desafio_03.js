@@ -10,4 +10,5 @@ function fatorial(numero){
     }
     return resultado;
 }
-fatorial(3);
+
+document.write(fatorial(3));

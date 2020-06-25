@@ -30,7 +30,8 @@ function alturaArvoreUtopica(n){
     }
     return altura;
 }
-alturaArvoreUtopica(0);
-alturaArvoreUtopica(1);
-alturaArvoreUtopica(2);
-alturaArvoreUtopica(3);
+
+document.write(alturaArvoreUtopica(0));
+document.write(alturaArvoreUtopica(1));
+document.write(alturaArvoreUtopica(2));
+document.write(alturaArvoreUtopica(3));

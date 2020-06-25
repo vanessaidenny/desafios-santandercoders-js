@@ -30,5 +30,6 @@ function escada(altura) {
     }
     return resultado;
 }
-escada(3);
-escada(5);
+
+document.write(escada(3));
+document.write(escada(5));

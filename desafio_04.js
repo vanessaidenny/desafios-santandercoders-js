@@ -34,4 +34,5 @@ function maisMenos(lista){
     resultado.push(contNegativo/total);
     return resultado;
 }
-maisMenos([1, 2, 0, -1]);
+
+document.write(maisMenos([1, 2, 0, -1]));

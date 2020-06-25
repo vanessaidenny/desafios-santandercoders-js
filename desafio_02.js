@@ -15,4 +15,5 @@ function produto(elemento) {
     }
     return resultado;
 }
-produto([1, 4, 7]);
+
+document.write(produto([1, 4, 7]));
